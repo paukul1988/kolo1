@@ -1,4 +1,4 @@
-// Imie, Nazwisko, grupa(specjalnosc), nr. indeksu
+// Paulina Kulaga, 101564,ABiBD
 
 #include <iostream>
 using namespace std;
